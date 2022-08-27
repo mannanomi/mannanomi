@@ -1,7 +1,7 @@
 ## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
 
 <p align="left">
-  <a href="https://leetcode.com/sudiptob2/">
+  <a href="https://leetcode.com/mannanomi/">
     <img src="https://cp-logo.vercel.app/leetcode/mannanomi" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/9020885/mannan-a-omi">
