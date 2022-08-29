@@ -18,17 +18,17 @@
 
 #### Now
 
-- ✨ Contributing to [Yarboo](https://github.com/yarboo/cli);
-- :fire: Interested in Data Science and Cloud engineering;
-- :calendar: Looking for contributing to python based open source projects 
+- ✨ Contributing to [myStudy](https://github.com/mymyStudy);
+- :fire: Interested in Data Science and Machine Learning;
+- :calendar: Looking for contributing to open source projects and product management;
 
 #### Bio
 
 - 🏢 I'm currently working at **Dccastalia**
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
+- ⚙️ I use daily: `.js`, `.py`, `.yml`, `.php`
+- 🌍 I'm mostly active within the **LinkedIn**
+- 🌱 Learning all about **JS**
+- 💬 Ping me about **Vue**, **Django**, **Python**, **RestAPIs**
 - 📫 Reach me: [twitter.com/mannanomi](https://twitter.com/mannanomi)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
