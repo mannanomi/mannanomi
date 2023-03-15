@@ -24,7 +24,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **Dccastalia**
+- 🏢 I'm currently studying Master of Computer Science at **Flinders University, Australia**
 - ⚙️ I use daily: `.js`, `.py`, `.yml`, `.php`
 - 🌍 I'm mostly active within the **LinkedIn**
 - 🌱 Learning all about **JS**
