@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a software engineer working in Adelaide, Australia
 
 <p align="left">
   <a href="https://leetcode.com/mannanomi/">
