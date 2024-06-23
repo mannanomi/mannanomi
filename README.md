@@ -28,7 +28,7 @@
 - ⚙️ I use daily: `.js`, `.py`, `.yml`, `.php`
 - 🌍 I'm mostly active within the **LinkedIn**
 - 🌱 Learning all about **JS**
-- 💬 Ping me about **Vue**, **Django**, **Python**, **RestAPIs**
+- 💬 Ping me about **Python**
 - 📫 Reach me: [twitter.com/mannanomi](https://twitter.com/mannanomi)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
