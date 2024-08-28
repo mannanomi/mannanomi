@@ -18,14 +18,14 @@
 
 #### Now
 
-- ✨ Contributing to [myStudy](https://github.com/mymyStudy);
-- :fire: Interested in Data Science and Machine Learning;
+
+- :fire: Interested in Artificial Intelligence and Machine Learning;
 - :calendar: Looking for contributing to open source projects and product management;
 
 #### Bio
 
 - 🏢 I'm currently studying Master of Computer Science at [**Flinders University, Australia**](https://www.flinders.edu.au/);
-- ⚙️ I use daily: `.js`, `.py`, `.yml`, `.php`
+- ⚙️ I use daily: `.js`, `.py`, `.php`
 - 🌍 I'm mostly active within the **LinkedIn**
 - 🌱 Learning all about **JS**
 - 💬 Ping me about **Python**
