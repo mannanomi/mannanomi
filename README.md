@@ -1,74 +1,38 @@
-## Hi 👋, I'm a software engineer working in Adelaide, Australia
+# Abdul Mannan Omi
 
-<p align="left">
-  <a href="https://leetcode.com/mannanomi/">
-    <img src="https://cp-logo.vercel.app/leetcode/mannanomi" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/9020885/mannan-a-omi">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/9020885?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/mannanomi?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mannanomi?color=green&logo=github">
-  </a>
-  <a href="https://github.com/mannanomi/">
-    <img src="https://komarev.com/ghpvc/?username=mannanomi" alt="visitors" />
-  </a>
+**Software Engineer — Adelaide, Australia**
 
-</p>
+I build full-stack web and mobile products, mostly with TypeScript, React and Next.js. Master of Computer Science (Flinders University). Currently a Developer Programmer at Nobless Inc., working on an in-house logistics platform.
 
-#### Now
+I like tracing bugs to their root cause, shipping reliable features, and turning messy requirements into clean systems.
 
+[LinkedIn](https://www.linkedin.com/in/mannanomi/) · [Email](mailto:mannanomi@gmail.com)
 
-- :fire: Interested in Artificial Intelligence and Machine Learning;
-- :calendar: Looking for contributing to open source projects and product management;
+---
 
-#### Bio
+## Selected work
 
-- 🏢 I'm currently studying Master of Computer Science at [**Flinders University, Australia**](https://www.flinders.edu.au/);
-- ⚙️ I use daily: `.js`, `.py`, `.php`
-- 🌍 I'm mostly active within the **LinkedIn**
-- 🌱 Learning all about **JS**
-- 💬 Ping me about **Python**
-- 📫 Reach me: [twitter.com/mannanomi](https://twitter.com/mannanomi)
-- 📝 Checkout my [Resume](files/resume.pdf).
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[shift-tracker](https://github.com/mannanomi/shift-tracker)** | Shift and earnings tracker with offline-first sync and pay-period reporting | React, Supabase, Dexie (IndexedDB), Recharts |
+| **[sa-learner-logbook](https://github.com/mannanomi/sa-learner-logbook)** | Driving-hours logbook built to the South Australian learner-permit rules | Next.js, Supabase, shadcn/ui, Zod |
+| **[moneymap-mobile](https://github.com/mannanomi/moneymap-mobile)** | Cross-platform personal finance app | React Native, Expo Router, Reanimated |
+| **[doctor-appointment-bd](https://github.com/mannanomi/doctor-appointment-bd)** | Appointment booking platform with role-based access | Next.js, Prisma, NextAuth, SQLite |
+| **[restaurant-manager](https://github.com/mannanomi/restaurant-manager)** | Orders, menu and staff management for small restaurants | Next.js, Prisma, Zod |
 
-#### My Current Stack
+## Research
 
-<img height="48" src="img/js.svg" alt="js"> <img height="48" src="img/html.svg" alt="html"> <img height="48" src="img/css.svg" alt="css"> <img height="48" src="img/php.svg" alt="php"> <img height="48" src="img/react-original.svg" alt="react"> <img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django">  <img height="48" src="img/git-original.svg" alt="git"> 
+**Multiple Authors Identification from Source Code Using Deep Learning** — ICECIT 2021.
+Identifies contributors from coding style using DNN, SVM and LSTM over code2seq AST representations; 96.7% classification accuracy.
+[Paper](https://doi.org/10.1109/ICECIT54077.2021.9641497) · [Code](https://github.com/mannanomi/Identifying-Multiple-Authors-from-Source-Code-Using-Deep-Learning-Model)
 
-#### Development Stuffs:
+## Stack
 
-<b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannanomi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannanomi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+**Languages** TypeScript · JavaScript · Python · PHP · C/C++
+**Frontend** React · Next.js · Vue · Nuxt · React Native (Expo) · Tailwind CSS
+**Backend & data** Node.js · Prisma · Supabase · PostgreSQL · MySQL · MongoDB
+**Tools** Git · Vercel · Figma
 
+## Background
 
-#### Recent Activity
-
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mannanomi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mannanomi/0" alt="Latest medium article">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mannanomi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mannanomi/1" alt="Latest medium article"> </a>
-
-#### Connect With Me
-
-<p left="center">
-<a href="https://twitter.com/mannanomi">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/mannanomi/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://www.facebook.com/mannanomi1">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-</a>
-<a href="https://medium.com/@mannanomi">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="mailto:mannanomi@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-</p>
+Two-plus years across software development, technical support and customer service — Nobless Inc. (Developer Programmer), TSA Group (Telstra/NBN escalations), Dcastalia Limited (technical support engineer). That support background is why I care a lot about error states, logs and the things that break in production.
